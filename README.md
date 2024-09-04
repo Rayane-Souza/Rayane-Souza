@@ -19,7 +19,9 @@
 
 ### Main skills:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=61DAFB&labelColor=transparent)
+![Java](https://img.shields.io/badge/Java-F7DF1C?style=for-the-badge&logo=java&logoColor=white&color=F7DF1C&labelColor=transparent)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E&labelColor=transparent)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120&labelColor=transparent)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC&labelColor=transparent)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26&labelColor=transparent)
